@@ -1,0 +1,6 @@
+flask
+llama-index
+faiss-cpu
+PyPDF2
+python-dotenv
+openai
